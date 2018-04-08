@@ -1,2 +1,2 @@
-# tutorialbits-
-Things ive amde with help of tutortals all react js 
+# Tutorial Examples-
+Things I've created with help of tutorials all React JS
